@@ -5,3 +5,4 @@
 # New changes
 * Git push command
 * Git pull command
+* Git fetch command
